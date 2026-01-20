@@ -1,4 +1,4 @@
-# Hotel Pricing Strategy & Customer Segmentation Analytics  
+# Hotel Pricing Strategy & Customer Analytics  
 *A Data-Driven Pricing and Segmentation Project*
 
 ## 📌 Project Overview
