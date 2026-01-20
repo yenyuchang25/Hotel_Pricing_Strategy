@@ -66,9 +66,11 @@ This creates risks of:
 
 - **Booking channels matter**:  
   After controlling for other factors, some channels consistently command higher net nightly rates.
+  <img src="reports/figures/booking_channel.png" width="500">
 
 - **Nationality-based price sensitivity exists**:  
   European and Australian travellers show higher average spending, while several Asian markets are more price sensitive.
+<img src="reports/figures/customer_countries.png" width="500">
 
 - **Low season = missed revenue opportunity**:  
   Occupancy drops significantly from January to March, especially for larger room types.
@@ -86,7 +88,7 @@ This creates risks of:
 - Protect premium positioning by:
   - Avoiding deep discounts for high-value customers
   - Using value-added benefits instead of price cuts
-<img src="reports/figures/discount_strategy.png" width="800">
+<img src="reports/figures/discount_strategy.png" width="600">
 ---
 
 ## 🛠 Tools & Technologies
