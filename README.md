@@ -32,7 +32,9 @@ This creates risks of:
 - Seasonality (month, weekday)
 - Repeat guest indicator
 - Net nightly room rate (IDR)
+
 Due to confidentiality, raw data is not publicly shared in this repository
+
 ---
 
 ### Analytical Approach
