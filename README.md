@@ -88,7 +88,7 @@ This creates risks of:
 - Protect premium positioning by:
   - Avoiding deep discounts for high-value customers
   - Using value-added benefits instead of price cuts
-<img src="reports/figures/discount_strategy.png" width="600">
+<img src="reports/figures/discount_strategy.png" width="700">
 ---
 
 ## 🛠 Tools & Technologies
