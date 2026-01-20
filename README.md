@@ -32,7 +32,7 @@ This creates risks of:
 - Seasonality (month, weekday)
 - Repeat guest indicator
 - Net nightly room rate (IDR)
-
+Due to confidentiality, raw data is not publicly shared in this repository
 ---
 
 ### Analytical Approach
@@ -64,9 +64,10 @@ This creates risks of:
 
 ## 🔍 Key Insights
 
-- **Booking channels matter**:  
+- **Revenue by Channel**:  
   After controlling for other factors, some channels consistently command higher net nightly rates.
   <img src="reports/figures/booking_channel.png" width="500">
+  *Booking.com & Agoda dominate revenue share — supports focusing pricing strategy here.*
 
 - **Nationality-based price sensitivity exists**:  
   European and Australian travellers show higher average spending, while several Asian markets are more price sensitive.
